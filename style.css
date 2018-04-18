@@ -1,0 +1,142 @@
+body {
+	background-color: white;
+}
+
+.title { 
+	font-family: Helvetica;
+	font-size: 60px;
+	color: #ffce3c;
+	text-align: center;
+}
+
+.menu a {
+	list-style: none;
+	font-family: Helvetica;
+	font-size: 23px;
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	color: #FF7982;
+}
+
+menu {
+	width: 15%;
+	display: inline-block;
+	float: left;
+	margin-top: 25px;
+}
+
+.slider img {
+	width: 76%;
+	margin-left: 15px;
+	display: inline-block;
+}
+
+.slider2 {
+	margin-right: 30px;
+}
+
+.slider2 img {
+	width: 76%;
+	margin-left: 15px;
+	display: inline-block;
+}
+
+.slider2 #cam {
+	width: 25.1%;
+}
+
+.slider2 #cam2 {
+	width: 25.1%;
+}
+
+.slider2 #cam3 {
+	width: 24%;
+}
+
+
+.text {
+	font-family: Helvetica;
+	font-size:18px;
+	margin-left: 330px;
+	margin-right: 330px;
+	margin-top: 80px;
+}  
+
+.text2 {
+	font-family: Helvetica;
+	font-size:18px;
+	margin-left: 330px;
+	margin-right: 330px;
+}
+
+img.resize {
+	max-width: 34%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img.resize2 {
+	max-width: 100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px; 
+}
+
+#settitle {
+	font-family: Helvetica;
+	margin-left: 268px;
+}
+
+a #settitle {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover #settitle {
+	color: #FF7982;
+}
+
+.slider3 img {
+	width: 76%;
+	display: inline-block;
+}
+
+.slider3 {
+	margin-left: 268px;
+}
+
+.slider3 #riley {
+	width: 30%;
+}
+
+.slider3 #couple {
+	width: 30%;
+	margin-left: 15px;
+}
+
+.slider3 #sarah {
+	width: 30%;
+	margin-left: 15px;
+}
+
+.slider4 img {
+	width: 43%;
+	display: inline-block;
+}
+
+.slider4 {
+	margin-left: 268px;
+}
+
+.slider4 #gabriela {
+	width: 43%;
+}
+
+.slider4 #amadi {
+	margin-left: 15px;
+	width: 46.3%;
+}
